@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"Habits\"\nauthor: John Doe\ndate: March 22, 2005\noutput: ioslides_presentation\n---\n\n# In the morning\n\n## Getting up\n\n- Turn off alarm\n- Get out of bed\n\n## Breakfast\n\n- Eat eggs\n- Drink coffee\n\n# In the evening\n\n## Dinner\n\n- Eat spaghetti\n- Drink wine\n\n----\n\n![picture of spaghetti](images/spaghetti.jpg)\n\n## Going to sleep\n\n- Get in bed\n- Count sheep\n",
+    "created" : 1480741159423.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "511720190",
+    "id" : "BCD5E690",
+    "lastKnownWriteTime" : 1480741182,
+    "last_content_update" : 1480741182304,
+    "path" : "C:/Users/Daniel/Desktop/Fall 2016/Stat 243/html slides testings.Rmd",
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

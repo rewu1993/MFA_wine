@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "install.packages(\"mfaR_0.1.0.tar.gz\")\ninstall.packages(\"mfaR_0.1.0.tar.gz\", repos = NULL, type=\"source\")\n",
+    "created" : 1480717641546.000,
+    "dirty" : true,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "1932371359",
+    "id" : "48B2C8EB",
+    "lastKnownWriteTime" : 3474018245633061684,
+    "last_content_update" : 1480718052193,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
